@@ -1,6 +1,6 @@
 {
   "name": "meme-generator",
-  "description": "https://scrimba.com/the-frontend-developer-career-path-c0j/~04z4",
+  "description": "A fun and interactive meme generator built with React.",
   "scripts": {
     "start": "vite",
     "dev": "vite",
