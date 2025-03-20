@@ -9,22 +9,22 @@ body {
 
 main {
     margin-inline: auto;
-    padding: 36px;
+    padding: 2.25rem;
     max-width: 600px;
 }
 
 .header {
     display: flex;
     align-items: center;
-    height: 65px;
+    height: 4rem;
     background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
     color: white;
-    padding: 20px;
+    padding: 1.25rem;
 }
 
 .header > img {
     height: 100%;
-    margin-right: 6px;
+    margin-right: 0.4rem;
 }
 
 .header > h1 {
@@ -35,16 +35,16 @@ main {
 .form {
     display: grid;
     grid-template: auto auto / 1fr 1fr;
-    gap: 17px;
-    margin-bottom: 17px;
+    gap: 1.1rem;
+    margin-bottom: 1.1rem;
 }
 
 .form input {
     width: 100%;
-    margin-top: 5px;
+    margin-top: 0.4rem;
     border-radius: 5px;
     border: 1px solid #D5D4D8;
-    text-indent: 5px;
+    text-indent: 0.4rem;
 }
 
 .form button {
@@ -78,8 +78,8 @@ main {
 .meme span {
     position: absolute;
     text-align: center;
-    margin-block: 15px;
-    padding-inline: 5px;
+    margin-block: 0.9rem;
+    padding-inline: 0.4rem;
     font-family: impact, sans-serif;
     font-size: 2rem;
     text-transform: uppercase;
